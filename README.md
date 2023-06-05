@@ -10,5 +10,9 @@
    Reference: [youtube](https://www.youtube.com/watch?v=f4jUEEzjEJw), [g4g](https://www.geeksforgeeks.org/maximum-profit-sale-wines/) 
 2. 
 
+Other Questions:
+1. [Random Questions](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/Notes/Random.Questoins.md)
+2. 
+
 
 Reference: https://www.geeksforgeeks.org/
