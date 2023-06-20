@@ -16,5 +16,15 @@
    ```
    Source: [leetcode](https://leetcode.com/problems/group-anagrams/description/) \
    SoultionRef: GroupAnagram.java
-4. 
-5. 
+4. Number of subarray with at leat k number of elements pair ? 
+   
+5.  Longest Substring Without Repeating Characters
+  ```
+   Input: s = "abcabcbb"
+   Output: 3
+   Explanation: The answer is "abc", with the length of 3.
+```
+   - Source: [leetscode](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) 
+   - SoultionRef: LonestSubstringWithoutRepeatingCharacter.java
+   - Tag: Set, String
+6. 
