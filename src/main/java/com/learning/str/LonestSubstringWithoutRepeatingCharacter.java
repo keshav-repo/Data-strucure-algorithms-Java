@@ -52,7 +52,7 @@ public class LonestSubstringWithoutRepeatingCharacter {
             for (int i = 0; i < str.length(); i++) {
                 if ((i + slidingWinSize) <= str.length()) {
                     size = i + slidingWinSize + 1;
-                    sub = str.substring(i,i+slidingWinSize);
+                    sub = str.substring(i, i + slidingWinSize);
                     boolean dublicatePresent = ifDublicatePresent(sub, map);
                     if (!dublicatePresent) {
                         if (size > longestSubLen) {
@@ -67,27 +67,57 @@ public class LonestSubstringWithoutRepeatingCharacter {
         return longestSubLen;
     }
 
+    // lets code some solution
     public static int lengthOfLongestSubstring(String s) {
-        Set<Character> set=new HashSet<>();
-        int maxLength=0;
-        int left=0;
-        for(int right=0;right<s.length();right++){
+        Set<Character> set = new HashSet<>();
+        int maxLength = 0;
+        int left = 0;
+        for (int right = 0; right < s.length(); right++) {
 
-            if(!set.contains(s.charAt(right))){
+            if (!set.contains(s.charAt(right))) {
                 set.add(s.charAt(right));
-                maxLength=Math.max(maxLength,right-left+1);
+                maxLength = Math.max(maxLength, right - left + 1);
 
-            }else{
-                while(s.charAt(left)!=s.charAt(right)){
+            } else {
+                while (s.charAt(left) != s.charAt(right)) {
                     set.remove(s.charAt(left));
                     left++;
                 }
-                set.remove(s.charAt(left));left++;
+                set.remove(s.charAt(left));
+                left++;
                 set.add(s.charAt(right));
             }
 
         }
         return maxLength;
+    }
+
+    /*
+     * we will use set -> Character
+     *
+     * */
+    public static int getLongestSubstring(String str) {
+        Set<Character> set = new HashSet<>();
+        char[] arr = str.toCharArray();
+        int left = 0;
+        int longestSubArrayLen = 0;
+        String longestSubArray = "";
+        for (int curr = 0; curr < arr.length; curr++) {
+            while (curr < arr.length && !set.contains(arr[curr])) {
+                longestSubArrayLen = curr - left + 1;
+                longestSubArray = str.substring(left, curr + 1);
+                set.add(arr[curr]);
+                curr++;
+            }
+            while (curr < arr.length && arr[left] != arr[curr]) {
+                set.remove(arr[left]);
+                left++;
+            }
+            //set.remove(arr[left]);
+            left++;
+        }
+        System.out.println("longest substring " + longestSubArray);
+        return longestSubArrayLen;
     }
 
     public static void main(String[] args) {
@@ -97,12 +127,19 @@ public class LonestSubstringWithoutRepeatingCharacter {
         int[] expectedAns = {3, 1, 3, 0, 1, 2, 3, 95};
 
         for (int i = 0; i < input.length; i++) {
-            int res = lengthOfLongestSubstring(input[i]);
-            if (res != expectedAns[i]) {
+            int res = 0;
+            try {
+                res = getLongestSubstring(input[i]);
+                if (res != expectedAns[i]) {
+                    System.out.println("Answer not matching");
+                    System.out.println(input[i]);
+                    System.out.println(String.format("Expected output %d, Actual output %d", expectedAns[i], res));
+                    break;
+                }
+            } catch (Exception exception) {
                 System.out.println("Answer not matching");
                 System.out.println(input[i]);
                 System.out.println(String.format("Expected output %d, Actual output %d", expectedAns[i], res));
-                break;
             }
         }
     }

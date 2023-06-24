@@ -26,5 +26,14 @@
 ```
    - Source: [leetscode](https://leetcode.com/problems/longest-substring-without-repeating-characters/description/) 
    - SoultionRef: LonestSubstringWithoutRepeatingCharacter.java
-   - Tag: Set, String
-6. 
+   - Tag: Set, String, MEDIUM
+6.  Longest Palindromic Substring
+```
+Input: s = "babad"
+Output: "bab"
+Explanation: "aba" is also a valid answer.
+```
+- source: [leetscode](https://leetcode.com/problems/longest-palindromic-substring/)
+- Tag: String
+- SoultionRef: [LongestPalindromStr](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/str/LongestPalindromStr.java)
+7. 
