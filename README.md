@@ -1,18 +1,10 @@
 # Data-strucure-algorithms-Java
 
-1. Selling wine problem. 
-   input = [2,4,6,2,5]  , max-profit = 64 \
-   Recursive solution: Since in recursive solution it will create binary tree. \
-   Time complexity -> O(2^(n)) \
-   Key Points: Memoization \
-   Tag: DP \
-   SoultionRef: SellingWineRecursion.java \
-   Reference: [youtube](https://www.youtube.com/watch?v=f4jUEEzjEJw), [g4g](https://www.geeksforgeeks.org/maximum-profit-sale-wines/) 
-2. 
-
 Other Questions:
 1. [Random Questions](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/Notes/Random.Questoins.md)
-2. 
+2. [Tree Question](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/Notes/Tree.md)
+3. [DP Problems](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/Notes/Dp.md)
 
-
-Reference: https://www.geeksforgeeks.org/
+Reference: 
+- https://www.geeksforgeeks.org/
+- https://leetcode.com/explore/

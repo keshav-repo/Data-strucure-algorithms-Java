@@ -36,4 +36,11 @@ Explanation: "aba" is also a valid answer.
 - source: [leetscode](https://leetcode.com/problems/longest-palindromic-substring/)
 - Tag: String
 - SoultionRef: [LongestPalindromStr](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/str/LongestPalindromStr.java)
-7. 
+7. Reverse Integer
+```
+Input: x = 123
+Output: 321
+```
+- Source : [leetcode](https://leetcode.com/problems/reverse-integer/description/) 
+- Source File:  [ReverseInteger.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/str/ReverseInteger.java)
+8. 

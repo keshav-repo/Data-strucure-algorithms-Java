@@ -50,25 +50,14 @@ public class LongestPalindromStr {
         }
         return s.substring(start, end + 1);
     }
-    /*
-     * bad
-     * i=0
-     * 1 - 1 =0
-     * baad
-     * 1
-     * i +
-     *
-     * */
 
     private static int expandAroundCenter(String s, int left, int right) {
         int L = left;
         int R = right;
-
         while (L >= 0 && R < s.length() && s.charAt(L) == s.charAt(R)) {
             L--;
             R++;
         }
-
         return R - L - 1;
     }
 
