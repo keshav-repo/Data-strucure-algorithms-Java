@@ -19,10 +19,11 @@ Output: 9
 - soultionRef: [LongestSubsequence](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/graph/LongestSubsequence.java)
 - Tag: dp, graph
 - Time Complexity: O(n)
-3. Alien Dictionary 
+3. Alien Dictionary [tutorialcup](https://tutorialcup.com/leetcode-solutions/alien-dictionary-leetcode-solution.htm)
 - SolutionRef: [AlienDictionary](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/graph/AlienDictionary.java)
 4. Topological sort 
 - SolutionRef: [TopologicalSort](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/graph/TopologicalSort.java)
+- QuestonRef: [g4g](https://practice.geeksforgeeks.org/problems/alien-dictionary/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=alien-dictionary)
 5. 
 
 
