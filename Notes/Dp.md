@@ -21,8 +21,13 @@ Output: 17
 4. Maximum Product Subarray
 - QuestionRef: [leetscode](https://leetcode.com/problems/maximum-product-subarray/description/)
 - SolutionRef: [MaxProductSubarray](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/MaxProductSubarray.java)
-5. 
-6. 
+5. House Robber
+- QuestionRef: [leetscode](https://leetcode.com/problems/house-robber/)
+- SolutionRef: [HouseRobber](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/HouseRobber.java)
+6. House Robber II
+- QuestionRef: [leetscode](https://leetcode.com/problems/house-robber-ii/description/)
+- SolutionRef: [HouseRobberII](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/HouseRobberII.java)
+7. 
 
 References: 
 - https://leetcode.com/problems/minimum-cost-for-tickets/
