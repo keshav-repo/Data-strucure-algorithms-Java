@@ -45,7 +45,13 @@ Output: 321
 - Source File:  [ReverseInteger.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/str/ReverseInteger.java)
 8. Martin’s father goes for a jog every morning. Martin follows him several minutes later. His father starts at a position that is X1 meters away from their home and runs rectilinearly at a constant speed of V1 meters per step for N steps.
    Martin is standing at X2 meters away from his home. He wonders how fast he must run at some constant speed of V2 meters per step so as to maximize F, where F equals the number of his father's footsteps that Martin will land on during his run. It is given that the first step that Martin will land on, from his starting position, will have been landed on by his father. Note that if more than one prospective velocity results in the same number of maximum common steps, output the highest prospective velocity as V2.
-Write an program to help Martin calculate F and V2. [link](https://brainly.in/question/43383542)
-9. 
+Write a program to help Martin calculate F and V2. [link](https://brainly.in/question/43383542)
+9. Inverson Cont
+- QuestionRef: [g4g](https://www.geeksforgeeks.org/inversion-count-in-array-using-merge-sort/) 
+- SolutionRef: InversionCount.java
+
+
+
+
 
 
