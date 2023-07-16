@@ -11,4 +11,5 @@ Reference:
 - https://www.geeksforgeeks.org/
 - https://leetcode.com/explore/
 - [practice.geeksforgeeks.org](https://practice.geeksforgeeks.org/explore?page=6&sortBy=submissions&utm_source=geeksforgeeks&utm_medium=main_header&utm_campaign=practice_header)
+- https://www.codingninjas.com/studio/problem-lists/striver-sde-sheet-problems
 - 

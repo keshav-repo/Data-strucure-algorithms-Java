@@ -27,10 +27,20 @@ Output: 17
 6. House Robber II
 - QuestionRef: [leetscode](https://leetcode.com/problems/house-robber-ii/description/)
 - SolutionRef: [HouseRobberII](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/HouseRobberII.java)
-7. 
+7. Count number of ways to partition a set into k subsets
+- Question ref: [g4g](https://www.geeksforgeeks.org/count-number-of-ways-to-partition-a-set-into-k-subsets/) 
+- [PartitionSet](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/PartitionSet.java)
+8. Bell Numbers
+- QuestionRef: [g4g](https://www.geeksforgeeks.org/bell-numbers-number-of-ways-to-partition-a-set/)
+- SolutionRef: [BellNumber](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/BellNumber.java)
+9. Binomial Coff
+- QuestionRef: [g4g](https://www.geeksforgeeks.org/binomial-coefficient-dp-9/)
+- SolutionRef: [BinomialCoff.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/BinomialCoff.java.java)
+10. 
 
 References: 
 - https://leetcode.com/problems/minimum-cost-for-tickets/
+- https://www.geeksforgeeks.org/dynamic-programming/
 - 
 
 
