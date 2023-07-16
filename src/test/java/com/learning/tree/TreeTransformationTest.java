@@ -1,8 +1,5 @@
 package com.learning.tree;
 
-import org.junit.jupiter.api.BeforeEach;
-import org.junit.jupiter.api.Test;
-
 public class TreeTransformationTest {
 
     private BinaryTree tree;
@@ -16,7 +13,7 @@ public class TreeTransformationTest {
         traversal = new Traversal();
     }
 
-    @BeforeEach
+
     public void init() {
         tree.root = new Node(1);
         tree.root.left = new Node(2);
@@ -25,7 +22,7 @@ public class TreeTransformationTest {
         tree.root.left.right = new Node(5);
     }
 
-    @Test
+
     public void mirrorTreeUtilTest() {
         Node root = transformation.mirrorTreeUtil(tree.root);
         traversal.inorder(root);
