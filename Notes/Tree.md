@@ -1,5 +1,14 @@
 ### Tree based Questions
 
+1. Inorder traversal 
+- solutionRef: [InorderTraversal](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/tree/InorderTraversal.java)
+2. Preorder 
+- solutionRef: [PreorderTraversal](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/tree/PreorderTraversal.java)
+3. Postorder
+- solutionRef: [PostorderTraversal](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/tree/PostorderTraversal.java)
+4. 
+
+
 | Srno | Questoin                                  | SolutionRef |
 |------|-------------------------------------------|-------------|
 | 1    | Inorder                                   |             |
