@@ -6,7 +6,13 @@
 - solutionRef: [PreorderTraversal](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/tree/PreorderTraversal.java)
 3. Postorder
 - solutionRef: [PostorderTraversal](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/tree/PostorderTraversal.java)
-4. 
+4. Height of tree 
+- solution: [HeightOfTree](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/tree/HeightOfTree.java)
+5. Build tree using inorder and preorder 
+- solution: [BuildTreeInorderPreorder](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/tree/BuildTreeInorderPreorder.java)
+6. Level order traversal 
+- solution: [LevelOrdertraversal.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/tree/LevelOrdertraversal.java.java)
+7. 
 
 
 | Srno | Questoin                                  | SolutionRef |
@@ -33,3 +39,8 @@ Questions:
 5. check bst or not 
 - QuestionRef: [g4g](https://www.techiedelight.com/determine-given-binary-tree-is-a-bst-or-not/)
 6. 
+
+
+## References
+- https://www.geeksforgeeks.org/top-50-tree-coding-problems-for-interviews/
+- 
