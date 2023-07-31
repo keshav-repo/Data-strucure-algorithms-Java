@@ -35,8 +35,27 @@ Output: 17
 - SolutionRef: [BellNumber](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/BellNumber.java)
 9. Binomial Coff
 - QuestionRef: [g4g](https://www.geeksforgeeks.org/binomial-coefficient-dp-9/)
-- SolutionRef: [BinomialCoff.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/BinomialCoff.java.java)
-10. 
+- SolutionRef: [BinomialCoff.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/BinomialCoff.java)
+10. Egg Drop problem 
+- QuestionRef: [g4g](https://www.geeksforgeeks.org/egg-dropping-puzzle-dp-11/)
+- SolutionRef:   [EggDrop.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/EggDrop.java)
+- Editorial: [youtube](https://youtu.be/S49zeUjeUL0)
+11. Travelling salesman problem 
+- TravellingSalesmanProblem.java
+- QuestionRef: [g4g](https://www.geeksforgeeks.org/travelling-salesman-problem-using-dynamic-programming/)
+- SolutionRef:   [TravellingSalesmanProblem](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/TravellingSalesmanProblem.java)
+- Editorial: [youtube](https://youtu.be/hh-uFQ-MGfw)
+12. Climbing Stairs
+- QuestionRef: [leetscode](https://leetcode.com/problems/climbing-stairs/description/)
+- SolutionRef:   [ClimbingStairs](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/ClimbingStairs.java)
+13. Coin Change
+- QuestionRef: [leetscode](https://leetcode.com/problems/coin-change/)
+- SolutionRef:   [CoinChange](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/CoinChange.java)
+14. Maximum profit
+- QuestionRef: [g4g](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)
+- SolutionRef: [MaximumProfit](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/MaximumProfit.java)
+15. 
+
 
 References: 
 - https://leetcode.com/problems/minimum-cost-for-tickets/
