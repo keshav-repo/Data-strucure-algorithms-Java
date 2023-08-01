@@ -54,7 +54,15 @@ Output: 17
 14. Maximum profit
 - QuestionRef: [g4g](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)
 - SolutionRef: [MaximumProfit](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/MaximumProfit.java)
-15. 
+15. Longest Increasing Subsequence
+- QuestionRef: [leetcode](https://leetcode.com/problems/longest-increasing-subsequence/)
+- SolutionRef: [LongestIncreasingSubsequence](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/LongestIncreasingSubsequence.java)
+- YoutubeEditorial: [youtube](https://youtu.be/mouCn3CFpgg)
+16. Unique Paths
+- QuestionRef: [leetcode](https://leetcode.com/problems/unique-paths/)
+- SolutionRef: [LongestIncreasingSubsequence](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/LongestIncreasingSubsequence.java)
+- YoutubeEditorial: 
+17. 
 
 
 References: 
