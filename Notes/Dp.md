@@ -60,9 +60,9 @@ Output: 17
 - YoutubeEditorial: [youtube](https://youtu.be/mouCn3CFpgg)
 16. Unique Paths
 - QuestionRef: [leetcode](https://leetcode.com/problems/unique-paths/)
-- SolutionRef: [LongestIncreasingSubsequence](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/LongestIncreasingSubsequence.java)
-- YoutubeEditorial: 
-17. 
+- SolutionRef: [UniquePath](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/UniquePath.java)
+17. Edit Distance
+18. 
 
 
 References: 
