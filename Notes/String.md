@@ -10,7 +10,7 @@ input="abc$d"
 output="dcb$a"
 ```
 - SolutionRef:  [ReverseStringKeepingSpecialCharacter](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/str/ReverseStringKeepingSpecialCharacter.java)
-4.  Longest common substring 
+4.  Longest common subsequence 
 ```
 input={"abcd", "abef"}
 output={"ab"}
@@ -22,4 +22,12 @@ input={"AGGTAB", "GXTXAYB"}
 output={"ab"}
 ```
 - SolutionRef:
+6. Atoi 
+- QuestionRef: https://leetcode.com/problems/string-to-integer-atoi/
+- SolutionRef: [Atoi2](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/str/Atoi2.java)
+- Tag: String to int
 7. 
+
+## Reference 
+- https://leetcode.com/tag/string/
+- 
