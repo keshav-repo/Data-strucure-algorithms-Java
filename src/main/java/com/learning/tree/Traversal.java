@@ -88,9 +88,9 @@ public class Traversal {
         if (root == null) return true;
         boolean leftBst = isBstUtil(root.left, prev);
 
-        if (prev.data >= root.data) {
-            return false;
-        }
+//        if (prev.data >= root.data) {
+//            return false;
+//        }
         prev.data = root.data;
         return leftBst && isBstUtil(root.right, prev);
     }

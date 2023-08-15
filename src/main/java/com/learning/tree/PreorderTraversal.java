@@ -10,7 +10,7 @@ public class PreorderTraversal {
     }
 
     public static void main(String[] args) {
-        BinaryTree tree = new BinaryTree();
+        BinaryTree<Integer> tree = new BinaryTree();
         tree.root = new Node(1);
         tree.root.left = new Node(2);
         tree.root.right = new Node(3);
@@ -20,5 +20,17 @@ public class PreorderTraversal {
         tree.root.right.right = new Node(7);
 
         preorder(tree.root);
+
+        System.out.println("");
+        BinaryTree<Character> charTree = new BinaryTree();
+        charTree.root = new Node('A');
+        charTree.root.left = new Node('B');
+        charTree.root.right = new Node('C');
+        charTree.root.left.left = new Node('D');
+        charTree.root.left.right = new Node('E');
+        charTree.root.right.left = new Node('F');
+        charTree.root.right.right = new Node('G');
+
+        preorder(charTree.root);
     }
 }

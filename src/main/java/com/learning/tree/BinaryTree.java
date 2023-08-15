@@ -1,7 +1,7 @@
 package com.learning.tree;
 
-public class BinaryTree {
-    Node root;
+public class BinaryTree<T> {
+    Node<T> root;
     public BinaryTree() {
         root = null;
     }
