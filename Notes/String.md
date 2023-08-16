@@ -1,9 +1,9 @@
 ## String based questions 
 
 1. How to print all permutations of string in Java?
-   [AllPerString](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/str/AllPerString.java)
+- solution: [AllPerString](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/str/AllPerString.java)
 2. How to reverse a string in Java?
-   [ReverseString](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/str/ReverseString.java)
+- solution: [ReverseString](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/str/ReverseString.java)
 3. A string has both alphabat and sepecial character. Reverse alphabat such that special character remain as same position.
 ```
 input="abc$d"
@@ -26,7 +26,13 @@ output={"ab"}
 - QuestionRef: https://leetcode.com/problems/string-to-integer-atoi/
 - SolutionRef: [Atoi2](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/str/Atoi2.java)
 - Tag: String to int
-7. 
+7. Longest Common Subsequence
+- QuestionRef: https://www.geeksforgeeks.org/longest-common-subsequence-dp-4/
+- SolutionRef: [LongestCommonSub2.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/str/LongestCommonSub2.java)
+8. License key formatting 
+- QuestionRef: https://leetcode.com/problems/license-key-formatting/
+- SolutionRef: [LicenseKeyFormatting.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/str/LicenseKeyFormatting.java)
+9. 
 
 ## Reference 
 - https://leetcode.com/tag/string/
