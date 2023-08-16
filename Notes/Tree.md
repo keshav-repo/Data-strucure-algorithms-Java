@@ -19,8 +19,22 @@
 9. Check if two tree is symetrical
 - solution: [IsSymmetrical.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/tree/IsSymmetrical.java)
 10. Check if tree is bst (Binary search tree)
-
-11. 
+- solution: [BinarySearchTree.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/tree/BinarySearchTree.java)
+11. Partition List 
+- QuesRef: https://leetcode.com/problems/partition-list/description/
+- solutionRef: [PartitionList.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/tree/PartitionList.java)
+12. Print bottom view 
+- solutionRef: [BottomView.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/tree/BottomView.java)
+13. Diameter of tree 
+- QuestionRef: https://www.geeksforgeeks.org/diameter-of-a-binary-tree-in-on-a-new-method/
+- solutionRef: [DiameterofTree.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/tree/DiameterofTree.java)
+14. Determine-if-a-binary-tree-is-balanced
+- QuestionRef: https://www.geeksforgeeks.org/how-to-determine-if-a-binary-tree-is-balanced/
+- solutionRef: [HeightBalancedCheck.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/tree/HeightBalancedCheck.java)
+15. Check for Children Sum Property in a Binary Tree
+- QuestionRef: https://www.geeksforgeeks.org/check-for-children-sum-property-in-a-binary-tree/
+- solutionRef: [ChildrenSumCheck.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/tree/ChildrenSumCheck.java)
+16. 
 
 
 

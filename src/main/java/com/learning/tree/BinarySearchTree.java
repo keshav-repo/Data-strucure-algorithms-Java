@@ -39,7 +39,7 @@ public class BinarySearchTree {
         binaryTree.root = root;
 
         System.out.println(isBst(binaryTree.root));
-        
+
         BinaryTree binaryTree2 = new BinaryTree();
         Node root2 = new Node(4);
         root2.left = new Node(3);
