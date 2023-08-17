@@ -61,7 +61,9 @@ Output: 17
 16. Unique Paths
 - QuestionRef: [leetcode](https://leetcode.com/problems/unique-paths/)
 - SolutionRef: [UniquePath](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/UniquePath.java)
-17. Edit Distance
+17. Can make palindrom from Substring 
+- QuestionRef: [leetcode](https://leetcode.com/problems/can-make-palindrome-from-substring/description/)
+- SolutionRef: [MakePalindrom.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/MakePalindrom.java)
 18. 
 
 
