@@ -32,8 +32,13 @@ output={"ab"}
 8. License key formatting 
 - QuestionRef: https://leetcode.com/problems/license-key-formatting/
 - SolutionRef: [LicenseKeyFormatting.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/str/LicenseKeyFormatting.java)
-9. 
+9. Longest Word in Dictionary
+- QuestionRef: https://leetcode.com/problems/longest-word-in-dictionary/
+- - SolutionRef: [LongestWord.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/str/LongestWord.java)
+10. 
+
 
 ## Reference 
 - https://leetcode.com/tag/string/
+- https://www.geeksforgeeks.org/top-50-string-coding-problems-for-interviews/
 - 
