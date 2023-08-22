@@ -17,5 +17,8 @@
 4. https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 - QuestionRef: https://leetcode.com/problems/letter-combinations-of-a-phone-number/
 - Solution: [LetterCombination.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/LetterCombination.java)
-5. 
+5. Restore IP Addresses
+- QuestionRef: https://leetcode.com/problems/restore-ip-addresses/
+- Solution: [RestoreIpAddress.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/RestoreIpAddress.java)
+6. 
 
