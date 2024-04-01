@@ -1,3 +1,54 @@
+
+👉 Number of Islands (22 times): https://lnkd.in/dEcneG2G
+
+👉 LRU Cache (27 times): https://lnkd.in/dR5RixgJ
+
+👉 Two Sum (27 times): https://lnkd.in/dz-nQabK
+
+👉 Longest Palindromic Substring (20 times): https://lnkd.in/dFpK7Vbu
+
+👉 Reverse Words in a String (18 times): https://lnkd.in/d_we-H9q
+
+👉 First Missing Positive (16 times): https://lnkd.in/dYJjT5df
+
+👉 Spiral Matrix (15 times): https://lnkd.in/dNda7fR5
+
+👉 Maximum Subarray (16 times): https://lnkd.in/d8t24BMj
+
+👉 Add Two Numbers (17 times): https://lnkd.in/dC6wv5Aa
+
+👉 Validate Binary Search Tree (13 times): https://lnkd.in/daPjb773
+
+👉 Longest Substring Without Repeating Characters (12 times): https://lnkd.in/dAr9a5Ny
+
+👉 Trapping Rain Water (12 times): https://lnkd.in/d6Bshc5q
+
+👉 Find the Duplicate Number (11 times): https://lnkd.in/di8RRW_R
+
+👉 Merge Sorted Array (11 times): https://lnkd.in/dxRQkGpn
+
+👉 Best Time to Buy and Sell Stock (11 times): https://lnkd.in/d_euBy8R
+
+👉 Letter Combinations of a Phone Number (11 times): https://lnkd.in/dPDhg_mH
+
+👉 Search in Rotated Sorted Array (11 times): https://lnkd.in/dRJy-FzG
+
+👉 Maximum Length of a Concatenated String with Unique Characters (10 times): https://lnkd.in/dP9M7Bgi
+
+👉 Reverse Nodes in k-Group (10 times): https://lnkd.in/dDrAPqCf
+
+👉 Remove Nth Node From End of List (10 times): https://lnkd.in/dAc_5dTz
+
+👉 Add Two Numbers II (9 times): https://lnkd.in/dypnTC6C
+
+👉 Search a 2D Matrix II (9 times): https://lnkd.in/d5Dtcw2m
+
+👉 Course Schedule II (8 times): https://lnkd.in/dD2VcPXP
+
+👉 Reverse Linked List (9 times): https://lnkd.in/dVmKdqvP
+
+
+
 Array:
 1. Two Sum
 2. Container With Most Water
@@ -117,3 +168,4 @@ Greedy:
 8. Queue Reconstruction by Height
 9. Gas Station
 10. Meeting Rooms 
+
