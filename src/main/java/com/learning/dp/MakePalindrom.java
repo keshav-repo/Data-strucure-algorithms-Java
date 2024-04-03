@@ -65,7 +65,7 @@ public class MakePalindrom {
 
     public static void main(String[] args) {
         String s = "abcda";
-        int[][] queries  =  {{3,3,0},{1,2,0},{0,3,1},{0,3,2},{0,4,1}};
+        int[][] queries  =  {{3,3,0},{1,2,0},{0,3,1},{0,3,2},{0,4,1}, {3,4,1}};
 
         MakePalindrom makePalindrom = new MakePalindrom();
         List<Boolean> res = makePalindrom.canMakePaliQueries(s, queries);

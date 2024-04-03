@@ -64,7 +64,13 @@ Output: 17
 17. Can make palindrom from Substring 
 - QuestionRef: [leetcode](https://leetcode.com/problems/can-make-palindrome-from-substring/description/)
 - SolutionRef: [MakePalindrom.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/MakePalindrom.java)
-18. 
+18. Largest Rectangle in Histogram
+- QuestionRef [leetcode](https://leetcode.com/problems/largest-rectangle-in-histogram/)
+- SolutionRef: [LargestRectangleArea.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/LargestRectangleArea.java)
+19. Maximal Rectangle
+- QuestionRef [leetcode](https://leetcode.com/problems/maximal-rectangle/description/)
+- SolutionRef: [MaximalRectangle.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/MaximalRectangle.java)
+20. 
 
 
 References: 
