@@ -70,12 +70,17 @@ Output: 17
 19. Maximal Rectangle
 - QuestionRef [leetcode](https://leetcode.com/problems/maximal-rectangle/description/)
 - SolutionRef: [MaximalRectangle.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/MaximalRectangle.java)
-20. 
-
+20. Count Numbers with Unique Digits
+- QuestionRef [leetcode](https://leetcode.com/problems/count-numbers-with-unique-digits/description/)
+- SolutionRef: [UniqueDigits.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/UniqueDigits.java)
+21. Number of Matching Subsequences
+- QuestionRef [leetcode](https://leetcode.com/problems/number-of-matching-subsequences/description/)
+- SolutionRef: [MatchingSubsequence.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/MatchingSubsequence.java)
+22. 
 
 References: 
 - https://leetcode.com/problems/minimum-cost-for-tickets/
-- https://www.geeksforgeeks.org/dynamic-programming/
+- [leetcode-dp-list](https://www.geeksforgeeks.org/dynamic-programming/)
 - 
 
 
