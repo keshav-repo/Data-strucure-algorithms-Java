@@ -76,11 +76,26 @@ Output: 17
 21. Number of Matching Subsequences
 - QuestionRef [leetcode](https://leetcode.com/problems/number-of-matching-subsequences/description/)
 - SolutionRef: [MatchingSubsequence.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/MatchingSubsequence.java)
-22. 
+22. Decode Ways
+- QuestionRef [leetcode](https://leetcode.com/problems/decode-ways/description/)
+- SolutionRef: [DecodeWays.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/DecodeWays.java)
+- editorial: [youtube](https://youtu.be/np1tSnaYG10?si=BVlJFjKd7jLILLB-)
+23. Least Operators to Express Number
+- QuestionRef [leetcode](https://leetcode.com/problems/decode-ways/description/)
+- SolutionRef: [DecodeWays.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/DecodeWays.java)
+24. Jump Game III
+- QuestionRef [leetcode](https://leetcode.com/problems/jump-game-iii/description/)
+- SolutionRef: [JumpGameIII.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/JumpGameIII.java)
+25. Largest Divisible Subset
+- QuestionRef [leetcode](https://leetcode.com/problems/largest-divisible-subset/description/)
+- SolutionRef: [LargestDivisibleSubset.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/dp/LargestDivisibleSubset.java)
+26. 
+
+
 
 References: 
 - https://leetcode.com/problems/minimum-cost-for-tickets/
 - [leetcode-dp-list](https://www.geeksforgeeks.org/dynamic-programming/)
+- [must do question](https://leetcode.com/discuss/general-discussion/1050391/Must-do-Dynamic-programming-Problems-Category-wise)
 - 
-
 
