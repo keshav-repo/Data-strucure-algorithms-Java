@@ -25,7 +25,6 @@ public class MincostTickets {
         return dp[365]; // return the cost of traveling every day in the year
     }
 
-
     public static int minCostTicketsRec(int[] days, int[] cost, int day) {
 
         if (day >= days.length)
@@ -47,7 +46,6 @@ public class MincostTickets {
 
         return Math.min(oneDayPass, Math.min(secondDayPass, thirdDayPass));
     }
-
 
     static Integer[] dp;
 

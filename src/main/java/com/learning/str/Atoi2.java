@@ -67,6 +67,11 @@ public class Atoi2 {
 //            }
 //        }
 
+        String s = "343";
+
+        int ans = s.charAt(1)-'0';
+        System.out.println(ans);
+
     }
 
 }
