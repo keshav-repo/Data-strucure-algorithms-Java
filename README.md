@@ -5,7 +5,9 @@ Other Questions:
 2. [Tree Question](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/Notes/Tree.md)
 3. [DP Problems](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/Notes/Dp.md)
 4. [Graph problems](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/Notes/Graph.md)
-5. 
+5. [String based](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/Notes/String.md)
+6. 
+
 
 Reference: 
 - https://www.geeksforgeeks.org/

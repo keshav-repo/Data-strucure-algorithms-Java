@@ -24,7 +24,10 @@ Output: 9
 4. Topological sort 
 - SolutionRef: [TopologicalSort](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/graph/TopologicalSort.java)
 - QuestonRef: [g4g](https://practice.geeksforgeeks.org/problems/alien-dictionary/1?utm_source=youtube&utm_medium=collab_striver_ytdescription&utm_campaign=alien-dictionary)
-5. 
+5. Detect cycle in an undirected graph
+- [g4g](https://www.geeksforgeeks.org/detect-cycle-undirected-graph/)
+- [solution DetectCycle.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/graph/DetectCycle.java)
+
 
 
 

@@ -7,12 +7,20 @@ public class DiameterofTree {
     public static int diameter(Node root) {
         if (root == null) return 0;
 
-        int heightLeft = diameter(root.left);
-        int heightRight = diameter(root.right);
+        int diameterLeft = diameter(root.left);
+        int diameterRight = diameter(root.right);
 
-        maxHeight = Math.max(maxHeight, 1 + heightLeft + heightRight);
+        int curr = height(root.left)+height(root.right)+1;
+        return Math.max(curr, Math.max(diameterLeft, diameterRight));
+    }
 
-        return 1 + Math.max(heightLeft, heightRight);
+    static int height(Node root) {
+        if (root == null)
+            return 0;
+        int leftHeight = height(root.left);
+        int rightHeight = height(root.right);
+
+        return leftHeight > rightHeight ? leftHeight + 1 : rightHeight + 1;
     }
 
     public static void main(String[] args) {
@@ -23,8 +31,8 @@ public class DiameterofTree {
         tree.root.left.left = new Node(4);
         tree.root.left.right = new Node(5);
 
-        diameter(tree.root);
-        System.out.println(maxHeight);
+        int ans = diameter(tree.root);
+        System.out.println(ans);
     }
 
 }
