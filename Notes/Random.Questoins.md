@@ -49,7 +49,11 @@ Write a program to help Martin calculate F and V2. [link](https://brainly.in/que
 9. Inverson Cont
 - QuestionRef: [g4g](https://www.geeksforgeeks.org/inversion-count-in-array-using-merge-sort/) 
 - SolutionRef: InversionCount.java
-
+10. FrequencyTracker
+- [leetcode](https://leetcode.com/problems/frequency-tracker/description/)
+- [FrequencyTracker2.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/random/FrequencyTracker2.java)
+- [FrequencyTracker.java](https://github.com/keshav-repo/Data-strucure-algorithms-Java/blob/master/src/main/java/com/learning/random/FrequencyTracker.java)
+11. 
 
 
 
